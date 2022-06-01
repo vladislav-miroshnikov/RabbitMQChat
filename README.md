@@ -1,5 +1,5 @@
-# rabbitmq-net-chat
-.NET chat using RabbitMq
+# RabbitMQChat
+.NET chat using RabbitMQ
 
 Requirements:
 .NET 6 SDK installed, RabbitMQ.Client via NuGet
